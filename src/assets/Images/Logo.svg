@@ -1,0 +1,7 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="1311" height="206.538" viewBox="0 0 1311 206.538">
+  <g id="reliance-industries-ltd" transform="translate(0 -0.5)">
+    <path id="Path_1" data-name="Path 1" d="M173.757,179.444a26.772,26.772,0,0,1-14.918,4.49c-17.525,0-14.366-10.052-57.473-49.806l-.136-.126a34.073,34.073,0,0,0,5.54.452c17.715,0,34.326-12.866,34.326-31.009,0-19.291-16.312-29.853-36.8-29.853-27.627,0-54.368,22.976-54.368,63.417,0,17.247,5.875,42.133,17.091,55.527C26.614,176.454,0,141.441,0,99.852,0,54.544,32.977,18.543,70.471,6.883A108.408,108.408,0,0,1,108.183.5C172.617.5,216.991,48.664,217.2,95.865c1.086,33.3-14.909,63.878-43.442,83.579Z" fill="#d2a046" fill-rule="evenodd"/>
+    <path id="Path_2" data-name="Path 2" d="M9.233,23.38a5.863,5.863,0,0,1-1.864-3.8c0-1.633,1.349-2.729,1.94-5.986.158,2.28,1.864,4.106,1.864,6.129A5.7,5.7,0,0,1,9.339,23.5l-.106-.121Z" transform="translate(134.103 183.537)" fill="#4caf50" fill-rule="evenodd"/>
+  </g>
+  <text id="Workshop_Management" data-name="Workshop Management" transform="translate(246 145)" fill="#d0a24d" font-size="100" font-family="SegoeUI, Segoe UI" style="mix-blend-mode: darken;isolation: isolate"><tspan x="0" y="0">Workshop Management</tspan></text>
+</svg>
